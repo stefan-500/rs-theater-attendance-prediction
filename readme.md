@@ -1,0 +1,1 @@
+Python data science project processing data, predicting and visualizing theater attendance in Serbia using machine learning.
