@@ -1,9 +1,9 @@
 # Yearly attendance of theaters in Serbia
 
 This is a data science project that predicts and visualizes the yearly attendance of theaters in Serbia.
-The Python program processes JSON data and creates a relevant dataset with seasons and their attendance values.
-The dataset is stored in a Firestore database and used for predicting attendance using Linear Regression.
+The Python program processes JSON data, creates a relevant DataFrame with seasons and their attendance values, saves the DataFrame to a FireStore database and fetches the data from the database.
+The fetched data is then used for predicting attendance using Linear Regression.
 
-![Attendance of professional theaters in Serbia](attendance_of_professional_theaters_RS.png)
+![Attendance of theaters in Serbia](docs/attendance_of_theaters_RS.png)
 
 **Data source**: https://opendata.stat.gov.rs/odata/?id=sr-lat

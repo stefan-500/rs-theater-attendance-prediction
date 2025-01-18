@@ -1,54 +1,54 @@
 [
     {
         "IDSezona":"2009\/10",
-        "vrednost":"920"
+        "vrednost":1409
     },
     {
         "IDSezona":"2010\/11",
-        "vrednost":"940"
+        "vrednost":1400
     },
     {
         "IDSezona":"2011\/12",
-        "vrednost":"1055"
+        "vrednost":1452
     },
     {
         "IDSezona":"2012\/13",
-        "vrednost":"988"
+        "vrednost":1411
     },
     {
         "IDSezona":"2013\/14",
-        "vrednost":"988"
+        "vrednost":1411
     },
     {
         "IDSezona":"2014\/15",
-        "vrednost":"835"
+        "vrednost":1214
     },
     {
         "IDSezona":"2015\/16",
-        "vrednost":"995"
+        "vrednost":1340
     },
     {
         "IDSezona":"2016\/17",
-        "vrednost":"1003"
+        "vrednost":1445
     },
     {
         "IDSezona":"2017\/18",
-        "vrednost":"983"
+        "vrednost":1464
     },
     {
         "IDSezona":"2018\/19",
-        "vrednost":"795"
+        "vrednost":1186
     },
     {
         "IDSezona":"2019\/20",
-        "vrednost":"713"
+        "vrednost":1007
     },
     {
         "IDSezona":"2020\/21",
-        "vrednost":"245"
+        "vrednost":447
     },
     {
         "IDSezona":"2021\/22",
-        "vrednost":"443"
+        "vrednost":680
     }
 ]
